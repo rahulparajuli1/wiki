@@ -1,0 +1,47 @@
+.ancient{
+    color: brown;
+    background-color: rgb(90, 90, 156);
+}
+#history{
+    color: rgb(45, 147, 89);
+    font-weight: bold;
+    font-style: oblique;
+}
+#geography{
+    color:blueviolet
+}
+#economy{
+    color: rgb(140, 100, 51);
+}
+#culture{
+    color: brown;
+}
+.history{
+    background-color: aqua;
+}
+.geography{
+    background-color: aquamarine;
+}
+.economy{
+    background-color: beige;
+}
+.culture{
+    background-color: rgb(71, 138, 138);
+}
+.right{
+    color: rgb(85, 208, 23);
+    background-color: brown;
+}
+.left{
+    background-color: beige;
+}
+
+.dotted-line {
+border-top: 4px double #5f2f2f;
+}
+.imm{
+    padding: 10px;
+  width: calc(105% - 30px);
+  background-color: rgb(68, 171, 40);
+  color: white;
+}
